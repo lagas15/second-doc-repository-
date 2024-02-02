@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+2nd-docs-repo!
 ===================================
 
 2nd
